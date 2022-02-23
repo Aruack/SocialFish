@@ -3,25 +3,20 @@
 </a></p>
 <h1 align="center">SocialFish</h1>
 
-Are you looking for SF's mobile controller? [UndeadSec/SocialFishMobile][sf-mobile]
+Are you looking for SF's mobile controller? [aruack/SocialFishMobile][sf-mobile]
 
-Are you looking for SF's old version(**Ngrok integrated**) ? [UndeadSec/SociaFish/.../sharkNet][sf-sharknet] 
+Are you looking for SF's old version(**Ngrok integrated**) ? [aruack/SociaFish/.../sharkNet][sf-sharknet] 
 #### SETUP AND RUNNING
 
-Visit the [wiki](<https://github.com/UndeadSec/SocialFish/wiki>) for more details.
+Visit the [wiki](<https://github.com/aruack/SocialFish/wiki>) for more details.
 
-Setup instructions [here](<https://github.com/UndeadSec/SocialFish/wiki/Setting-Up-SocialFish>).
+Setup instructions [here](<https://github.com/aruack/SocialFish/wiki/Setting-Up-SocialFish>).
 
 ![Screenshot](https://raw.githubusercontent.com/UndeadSec/SocialFishMobile/master/content/screen.png)
 
-#### MAINTAINERS
-- **Alisson Moretto**, Twitter: [@A1S0N_][tw-alisson], GitHub: [@A1S0N][git-alisson]
-- **Vandré Augusto**, Twitter: [@dr1nKoRdi3][tw-drink], GitHub: [@dr1nK0Rdi3][git-drink]
 
-#### DOCS
-- **Fernando Bellincanta**, Twitter: [@ErvalhouS][tw-fernando], GitHub: [@ErvalhouS][git-fernando]
 
-### DISCLAIMER
+
 
 TO BE USED FOR EDUCATIONAL PURPOSES ONLY
 
@@ -47,14 +42,3 @@ This project adheres to No Code of Conduct. We are all adults. We accept anyone'
 
 For more information please visit the [No Code of Conduct homepage](https://github.com/domgetter/NCoC).
 
-[//]: # (links references)
-
-[tw-alisson]: <https://twitter.com/A1S0N_>
-[git-alisson]: <https://github.com/A1S0N>
-[tw-drink]: <https://twitter.com/Dr1nkOrdi3>
-[git-drink]: <https://github.com/dr1nk0rdi3>
-[sf-mobile]: <https://github.com/UndeadSec/SocialFishMobile>
-[git-tiago]: <https://github.com/tiagorlampert>
-[git-fernando]: <https://github.com/ErvalhouS>
-[tw-fernando]: <https://twitter.com/ErvalhouS>
-[sf-sharknet]: <https://github.com/UndeadSec/SocialFish/releases/tag/sharkNet>
